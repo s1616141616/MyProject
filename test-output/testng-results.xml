@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90545" started-at="2017-11-25T23:48:24Z" finished-at="2017-11-25T23:49:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90545" started-at="2017-11-25T23:48:24Z" finished-at="2017-11-25T23:49:54Z">
+      <class name="com.viasat.HeaderLinkClick">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="launchBrowser" is-config="true" duration-ms="5494" started-at="2017-11-25T15:48:24Z" finished-at="2017-11-25T15:48:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="serviceSystemLinkTest()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="serviceSystemLinkTest" duration-ms="5291" started-at="2017-11-25T15:48:29Z" finished-at="2017-11-25T15:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceSystemLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="closeBrowser" is-config="true" duration-ms="3721" started-at="2017-11-25T15:48:35Z" finished-at="2017-11-25T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="launchBrowser" is-config="true" duration-ms="6533" started-at="2017-11-25T15:48:38Z" finished-at="2017-11-25T15:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="industriesApplicationsLinkTest()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="industriesApplicationsLinkTest" duration-ms="8706" started-at="2017-11-25T15:48:45Z" finished-at="2017-11-25T15:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- industriesApplicationsLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="closeBrowser" is-config="true" duration-ms="3772" started-at="2017-11-25T15:48:54Z" finished-at="2017-11-25T15:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="launchBrowser" is-config="true" duration-ms="4987" started-at="2017-11-25T15:48:57Z" finished-at="2017-11-25T15:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="supportTrainingLinkTest()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="supportTrainingLinkTest" duration-ms="5786" started-at="2017-11-25T15:49:02Z" finished-at="2017-11-25T15:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supportTrainingLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="closeBrowser" is-config="true" duration-ms="3714" started-at="2017-11-25T15:49:08Z" finished-at="2017-11-25T15:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="launchBrowser" is-config="true" duration-ms="4730" started-at="2017-11-25T15:49:12Z" finished-at="2017-11-25T15:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="aboutLinkTest()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="aboutLinkTest" duration-ms="5867" started-at="2017-11-25T15:49:17Z" finished-at="2017-11-25T15:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="closeBrowser" is-config="true" duration-ms="3736" started-at="2017-11-25T15:49:23Z" finished-at="2017-11-25T15:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="launchBrowser" is-config="true" duration-ms="4808" started-at="2017-11-25T15:49:26Z" finished-at="2017-11-25T15:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="careersLinkTest()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="careersLinkTest" duration-ms="5690" started-at="2017-11-25T15:49:31Z" finished-at="2017-11-25T15:49:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careersLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="closeBrowser" is-config="true" duration-ms="3695" started-at="2017-11-25T15:49:37Z" finished-at="2017-11-25T15:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="launchBrowser" is-config="true" duration-ms="5848" started-at="2017-11-25T15:49:40Z" finished-at="2017-11-25T15:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="contactLinkTest()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="contactLinkTest" duration-ms="4451" started-at="2017-11-25T15:49:46Z" finished-at="2017-11-25T15:49:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.viasat.HeaderLinkClick@39fb3ab6]" name="closeBrowser" is-config="true" duration-ms="3685" started-at="2017-11-25T15:49:51Z" finished-at="2017-11-25T15:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.viasat.HeaderLinkClick -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
